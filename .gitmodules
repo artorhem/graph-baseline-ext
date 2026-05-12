@@ -1,0 +1,4 @@
+[submodule "mosaic/googletest"]
+	path = mosaic/googletest
+	url = https://github.com/google/googletest.git
+	branch = main
